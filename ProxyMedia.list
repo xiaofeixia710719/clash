@@ -145,7 +145,7 @@ DOMAIN-SUFFIX,uplynk.com
 DOMAIN-KEYWORD,grok
 DOMAIN-SUFFIX,grok.com
 
-#google
+# Google
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
 DOMAIN-SUFFIX,google.com
