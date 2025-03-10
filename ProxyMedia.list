@@ -53,7 +53,10 @@ DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
-DOMAIN-SUFFIX,stream-link.org
+
+# APTV
+DOMAIN-SUFFIX,sc2025.stream-link.org
+DOMAIN-KEYWORD,stream-link
 
 # BBCiPlayer
 USER-AGENT,BBCiPlayer*
