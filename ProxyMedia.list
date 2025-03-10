@@ -141,6 +141,10 @@ DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,uplynk.com
 
+# Grok
+DOMAIN-KEYWORD,grok
+DOMAIN-SUFFIX,grok.com
+
 # HBO
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
@@ -338,7 +342,6 @@ DOMAIN-SUFFIX,olevodtv.com
 
 # OpenAi
 DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,grok
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com
@@ -354,7 +357,6 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,grok.com
 
 # PBS
 USER-AGENT,PBS*
