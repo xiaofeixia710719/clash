@@ -54,10 +54,6 @@ DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
 
-# APTV
-DOMAIN-SUFFIX,sc2025.stream-link.org
-DOMAIN-KEYWORD,stream-link
-
 # BBCiPlayer
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt
@@ -203,6 +199,8 @@ USER-AGENT,ITV_Player*
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
+DOMAIN-SUFFIX,sc2025.stream-link.org
+DOMAIN-KEYWORD,stream-link
 
 # Iwara
 DOMAIN-SUFFIX,iwara.tv
@@ -340,6 +338,7 @@ DOMAIN-SUFFIX,olevodtv.com
 
 # OpenAi
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,grok
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com
@@ -355,6 +354,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,grok.com
 
 # PBS
 USER-AGENT,PBS*
